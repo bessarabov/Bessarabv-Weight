@@ -8,7 +8,7 @@ package Bessarabv::Weight;
 
     my $bw = Bessarabv::Weight->new();
 
-    print $bw->get_weight("2013-08-21") # 82.2
+    print $bw->get_weight("2013-08-21"); # 82.2
 
 =head1 DESCRIPTION
 
